@@ -1,0 +1,174 @@
+2025-07-22 16:58:01,107 [13] INFO LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-22 21:56:44,828 [11] INFO LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-22 22:01:49,952 [6] INFO LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-22 22:02:50,974 [6] INFO LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-22 22:03:03,378 [6] INFO LibrarySystem.Controllers.BookController - Fetching book with ID 1 from the database.
+2025-07-22 22:03:19,676 [6] INFO LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-23 21:46:33,834 [1] INFO Program - Application is starting...
+2025-07-23 21:46:33,847 [1] INFO Program - Database context configured with MySQL.
+2025-07-23 21:46:33,859 [1] INFO Program - JWT Bearer authentication configured.
+2025-07-23 21:46:34,159 [1] INFO Program - Application has been built successfully.
+2025-07-23 21:46:55,440 [15] INFO LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-23 21:47:20,321 [15] INFO LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-23 22:26:55,583 [1] INFO Program - Application is starting...
+2025-07-23 22:26:55,592 [1] INFO Program - Database context configured with MySQL.
+2025-07-23 22:26:55,596 [1] INFO Program - JWT Bearer authentication configured.
+2025-07-23 22:26:55,635 [1] INFO Program - Application has been built successfully.
+2025-07-23 22:27:09,499 [7] INFO LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-23 22:27:39,572 [19] INFO LibrarySystem.Middleware.Logs.AsyncLogger - [UserController] GET all user called at 7/23/2025 10:27:39 PM
+2025-07-23 22:37:37,622 [1] INFO  [logger] - Application is starting...
+2025-07-23 22:37:37,632 [1] INFO  [logger] - Database context configured with MySQL.
+2025-07-23 22:37:37,636 [1] INFO  [logger] - JWT Bearer authentication configured.
+2025-07-23 22:37:37,670 [1] INFO  [logger] - Application has been built successfully.
+2025-07-23 22:37:50,252 [13] INFO  [logger] - User user logged in successfully.
+2025-07-23 22:38:16,845 [18] INFO  [logger] - GET all user called 
+2025-07-23 22:45:24,579 [1] INFO  Program - Application is starting...
+2025-07-23 22:45:24,588 [1] INFO  Program - Database context configured with MySQL.
+2025-07-23 22:45:24,592 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-23 22:45:24,629 [1] INFO  Program - Application has been built successfully.
+2025-07-23 22:45:35,691 [19] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-23 22:46:43,409 [19] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-23 22:47:33,208 [19] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-23 22:48:32,682 [19] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-23 22:49:12,280  INFO  [logger] - Application is starting...
+2025-07-23 22:49:12,290  INFO  [logger] - Database context configured with MySQL.
+2025-07-23 22:49:12,293  INFO  [logger] - JWT Bearer authentication configured.
+2025-07-23 22:49:12,328  INFO  [logger] - Application has been built successfully.
+2025-07-23 22:52:18,512 [1] INFO  Program - Application is starting...
+2025-07-23 22:52:18,521 [1] INFO  Program - Database context configured with MySQL.
+2025-07-23 22:52:18,525 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-23 22:52:18,563 [1] INFO  Program - Application has been built successfully.
+2025-07-23 22:52:25,631 [17] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-23 22:53:50,735 [20] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-23 22:54:09,975 [7] INFO  LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-23 22:55:56,755 [1] INFO  Program - Application is starting...
+2025-07-23 22:55:56,764 [1] INFO  Program - Database context configured with MySQL.
+2025-07-23 22:55:56,768 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-23 22:55:56,806 [1] INFO  Program - Application has been built successfully.
+2025-07-23 22:56:07,320 [17] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-23 23:05:18,240 [1] INFO  Program - Application is starting...
+2025-07-23 23:05:18,251 [1] INFO  Program - Database context configured with MySQL.
+2025-07-23 23:05:18,255 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-23 23:05:18,298 [1] INFO  Program - Application has been built successfully.
+2025-07-23 23:05:24,281 [10] INFO  LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-23 23:05:24,285 [18] INFO  LibrarySystem.Controllers.BookController - GET all user called 
+2025-07-24 09:03:13,740 [1] INFO  Program - Application is starting...
+2025-07-24 09:03:13,757 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 09:03:13,765 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 09:03:14,055 [1] INFO  Program - Application has been built successfully.
+2025-07-24 09:03:55,067 [4] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 09:04:18,409 [4] INFO  LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-24 09:04:18,415 [21] INFO  LibrarySystem.Controllers.BookController - GET all called 
+2025-07-24 09:04:44,458 [21] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-24 09:05:44,652 [21] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-24 09:06:02,785 [4] INFO  LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-24 09:06:02,785 [21] INFO  LibrarySystem.Controllers.BookController - GET all called 
+2025-07-24 09:08:33,906 [1] INFO  Program - Application is starting...
+2025-07-24 09:08:33,921 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 09:08:33,929 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 09:08:33,998 [1] INFO  Program - Application has been built successfully.
+2025-07-24 09:09:02,137 [4] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 09:20:25,464 [1] INFO  Program - Application is starting...
+2025-07-24 09:20:25,477 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 09:20:25,483 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 09:20:25,557 [1] INFO  Program - Application has been built successfully.
+2025-07-24 09:20:37,708 [13] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 09:21:19,437 [13] WARN  LibrarySystem.Controllers.BookController - Book with ID 7 not found.
+2025-07-24 09:40:23,074 [1] INFO  Program - Application is starting...
+2025-07-24 09:40:23,091 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 09:40:23,098 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 09:40:23,154 [1] INFO  Program - Application has been built successfully.
+2025-07-24 09:40:45,975 [7] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 09:46:15,926 [1] INFO  Program - Application is starting...
+2025-07-24 09:46:15,943 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 09:46:15,950 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 09:46:16,013 [1] INFO  Program - Application has been built successfully.
+2025-07-24 09:46:32,154 [7] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 10:18:08,144 [1] INFO  Program - Application is starting...
+2025-07-24 10:18:08,188 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 10:18:08,196 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 10:18:08,518 [1] INFO  Program - Application has been built successfully.
+2025-07-24 10:18:51,318 [3] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 10:19:16,243 [4] WARN  LibrarySystem.Controllers.BookController - Book with ID 6 not found.
+2025-07-24 10:20:03,949 [18] WARN  LibrarySystem.Controllers.BookController - Book with ID 6 not found.
+2025-07-24 10:22:13,592 [15] WARN  LibrarySystem.Controllers.BookController - Book with ID 6 not found.
+2025-07-24 10:34:17,278 [1] INFO  Program - Application is starting...
+2025-07-24 10:34:17,309 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 10:34:17,318 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 10:34:17,383 [1] INFO  Program - Application has been built successfully.
+2025-07-24 10:34:29,244 [6] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 10:35:01,282 [21] WARN  LibrarySystem.Controllers.BookController - Book with ID 6 not found.
+2025-07-24 10:45:13,079 [1] INFO  Program - Application is starting...
+2025-07-24 10:45:13,095 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 10:45:13,102 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 10:45:13,159 [1] INFO  Program - Application has been built successfully.
+2025-07-24 10:45:24,898 [4] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 10:46:08,393 [4] WARN  LibrarySystem.Controllers.BookController - ID mismatch: The ID in the URL does not match the ID in the book entity.
+2025-07-24 10:46:17,050 [20] WARN  LibrarySystem.Controllers.BookController - Book with ID 6 not found.
+2025-07-24 10:51:32,086 [1] INFO  Program - Application is starting...
+2025-07-24 10:51:32,100 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 10:51:32,106 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 10:51:32,166 [1] INFO  Program - Application has been built successfully.
+2025-07-24 10:51:45,726 [7] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 10:52:54,877 [1] INFO  Program - Application is starting...
+2025-07-24 10:52:54,891 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 10:52:54,900 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 10:52:54,966 [1] INFO  Program - Application has been built successfully.
+2025-07-24 10:53:10,233 [14] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 11:03:41,906 [1] INFO  Program - Application is starting...
+2025-07-24 11:03:41,924 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 11:03:41,933 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 11:03:41,993 [1] INFO  Program - Application has been built successfully.
+2025-07-24 11:04:07,112 [10] INFO  LibrarySystem.Controllers.AuthController - User user logged in successfully.
+2025-07-24 11:08:51,783 [1] INFO  Program - Application is starting...
+2025-07-24 11:08:51,798 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 11:08:51,805 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 11:08:51,862 [1] INFO  Program - Application has been built successfully.
+2025-07-24 11:09:05,437 [6] INFO  LibrarySystem.Controllers.AuthController - User user logged in successfully.
+2025-07-24 11:16:11,140 [1] INFO  Program - Application is starting...
+2025-07-24 11:16:11,160 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 11:16:11,174 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 11:16:11,240 [1] INFO  Program - Application has been built successfully.
+2025-07-24 11:16:23,716 [10] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 11:22:04,658 [1] INFO  Program - Application is starting...
+2025-07-24 11:22:04,673 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 11:22:04,680 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 11:22:04,755 [1] INFO  Program - Application has been built successfully.
+2025-07-24 20:49:06,011 [1] INFO  Program - Application is starting...
+2025-07-24 20:49:06,021 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 20:49:06,027 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 20:49:06,423 [1] INFO  Program - Application has been built successfully.
+2025-07-24 20:49:30,018 [10] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 20:49:52,553 [10] INFO  LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-24 20:49:52,560 [18] INFO  LibrarySystem.Controllers.BookController - GET all called 
+2025-07-24 20:52:16,931 [3] INFO  LibrarySystem.Controllers.BookController - Fetching all books from the database.
+2025-07-24 20:52:16,932 [18] INFO  LibrarySystem.Controllers.BookController - GET all called 
+2025-07-24 20:52:31,868 [19] INFO  LibrarySystem.Controllers.BookController - Fetching book with ID 3 from the database.
+2025-07-24 20:54:20,676 [18] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-24 20:55:24,297 [18] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-24 20:56:22,564 [18] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-24 20:58:17,350 [1] INFO  Program - Application is starting...
+2025-07-24 20:58:17,359 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 20:58:17,363 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 20:58:17,407 [1] INFO  Program - Application has been built successfully.
+2025-07-24 20:58:30,910 [16] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 20:59:56,166 [16] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 21:02:21,573 [27] INFO  LibrarySystem.Controllers.UserController - GET all user called 
+2025-07-24 22:03:47,281 [1] INFO  Program - Application is starting...
+2025-07-24 22:03:47,294 [1] INFO  Program - Database context configured with MySQL.
+2025-07-24 22:03:47,298 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-24 22:03:47,342 [1] INFO  Program - Application has been built successfully.
+2025-07-24 22:04:03,402 [18] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-24 22:04:42,309 [18] INFO  LibrarySystem.Controllers.BookController - Get all books called 
+2025-07-24 22:04:42,311 [18] INFO  LibrarySystem.Services.BookService - Fetched all books successfully.
+2025-07-24 22:05:01,679 [18] INFO  LibrarySystem.Controllers.BookController - Search books called 
+2025-07-24 22:05:01,680 [18] INFO  LibrarySystem.Services.BookService - Found books with term 't'
+2025-07-24 22:05:50,759 [18] INFO  LibrarySystem.Controllers.UserController - Get all user called 
+2025-07-24 22:05:50,760 [18] INFO  LibrarySystem.Services.UserService - Got all users.
+2025-07-25 08:46:18,817 [1] INFO  Program - Application is starting...
+2025-07-25 08:46:18,838 [1] INFO  Program - Database context configured with MySQL.
+2025-07-25 08:46:18,847 [1] INFO  Program - JWT Bearer authentication configured.
+2025-07-25 08:46:19,341 [1] INFO  Program - Application has been built successfully.
+2025-07-25 08:46:39,477 [18] INFO  LibrarySystem.Controllers.AuthController - User admin logged in successfully.
+2025-07-25 08:47:01,592 [18] INFO  LibrarySystem.Controllers.BookController - Get all books called 
+2025-07-25 08:47:01,593 [18] INFO  LibrarySystem.Services.BookService - Fetched all books successfully.
