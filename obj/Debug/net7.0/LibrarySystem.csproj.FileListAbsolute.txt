@@ -73,3 +73,4 @@ D:\CSharp\LibrarySystem\bin\Debug\net7.0\log4net.dll
 D:\CSharp\LibrarySystem\bin\Debug\net7.0\log4net.config
 D:\CSharp\LibrarySystem\bin\Debug\net7.0\appsettings.Development.json
 D:\CSharp\LibrarySystem\bin\Debug\net7.0\appsettings.json
+D:\CSharp\LibrarySystem\obj\Debug\net7.0\LibrarySystem.sourcelink.json

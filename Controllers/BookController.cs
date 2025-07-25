@@ -12,7 +12,7 @@ namespace LibrarySystem.Controllers
     public class BookController : ControllerBase
     {
         private readonly IBookService bookService;
-        private static readonly ILog logger = LogManager.GetLogger(typeof(BookController));
+        //private static readonly ILog logger = LogManager.GetLogger(typeof(BookController));
 
         public BookController(IBookService bookService)
         {

@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "D:\\CSharp\\LibrarySystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|d:\\csharp\\librarysystem\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|solutionrelative:log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|d:\\csharp\\librarysystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|solutionrelative:data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|d:\\csharp\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|d:\\csharp\\librarysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|d:\\csharp\\librarysystem\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|solutionrelative:log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B40759D3-B308-441E-A5A0-9D7374F2FE8F}|LibrarySystem.csproj|d:\\csharp\\librarysystem\\models\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,19 +95,43 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "log4net.config",
-              "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\log4net.config",
-              "RelativeDocumentMoniker": "log4net.config",
-              "ToolTip": "D:\\CSharp\\LibrarySystem\\log4net.config",
-              "RelativeToolTip": "log4net.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-07-25T01:34:47.463Z",
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Data\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\LibraryDbContext.cs",
+              "ToolTip": "D:\\CSharp\\LibrarySystem\\Data\\LibraryDbContext.cs",
+              "RelativeToolTip": "Data\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:33:36.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CSharp\\LibrarySystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T01:48:09.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "log4net.config",
+              "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\log4net.config",
+              "RelativeDocumentMoniker": "log4net.config",
+              "ToolTip": "D:\\CSharp\\LibrarySystem\\log4net.config",
+              "RelativeToolTip": "log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-25T01:34:47.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Borrowrecord.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Models\\Borrowrecord.cs",
               "RelativeDocumentMoniker": "Models\\Borrowrecord.cs",
@@ -107,12 +139,11 @@
               "RelativeToolTip": "Models\\Borrowrecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T01:34:35.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-25T01:34:35.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
@@ -120,12 +151,11 @@
               "RelativeToolTip": "Controllers\\UserController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAgwDMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T04:20:18.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T04:20:18.414Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "BorrowRepository.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Repositories\\BorrowRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\BorrowRepository.cs",
@@ -133,12 +163,23 @@
               "RelativeToolTip": "Repositories\\BorrowRepository.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T14:07:27.258Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T14:07:27.258Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CSharp\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T04:01:37.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -150,20 +191,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\CSharp\\LibrarySystem\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T04:01:37.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
@@ -175,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ErrorHandling.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Middleware\\ErrorHandling.cs",
               "RelativeDocumentMoniker": "Middleware\\ErrorHandling.cs",
@@ -183,12 +211,11 @@
               "RelativeToolTip": "Middleware\\ErrorHandling.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T03:58:09.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T03:58:09.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IBorrowRepository.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Repositories\\Interfaces\\IBorrowRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBorrowRepository.cs",
@@ -196,12 +223,11 @@
               "RelativeToolTip": "Repositories\\Interfaces\\IBorrowRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T14:11:22.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T14:11:22.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "BorrowsController.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Controllers\\BorrowsController.cs",
               "RelativeDocumentMoniker": "Controllers\\BorrowsController.cs",
@@ -213,7 +239,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "BorrowService.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Services\\BorrowService.cs",
               "RelativeDocumentMoniker": "Services\\BorrowService.cs",
@@ -225,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AsyncLogger.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Middleware\\Logs\\AsyncLogger.cs",
               "RelativeDocumentMoniker": "Middleware\\Logs\\AsyncLogger.cs",
@@ -237,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "IBorrowService.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Services\\Interfaces\\IBorrowService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IBorrowService.cs",
@@ -249,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IService.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Services\\Interfaces\\IService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IService.cs",
@@ -261,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "IRepository.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IRepository.cs",
@@ -273,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "IBookRepository.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Repositories\\Interfaces\\IBookRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IBookRepository.cs",
@@ -285,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "BookRepository.cs",
               "DocumentMoniker": "D:\\CSharp\\LibrarySystem\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\BookRepository.cs",
